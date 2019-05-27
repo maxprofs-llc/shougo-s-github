@@ -1,0 +1,3 @@
+# shougo-s-github
+Shougo's git repository - vim, zsh, screen, etc...
+#$#
